@@ -1,0 +1,10 @@
+*.log
+*.class
+*.exe
+*.pyc
+.env
+node_modules/
+dist/
+.vscode/
+.idea/
+__pycache__/
